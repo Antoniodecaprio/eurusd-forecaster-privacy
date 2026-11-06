@@ -1,7 +1,7 @@
 # Privacy Policy — EUR/USD Forecaster
 
-**Effective date:** [YYYY-MM-DD]
-**Last updated:** [YYYY-MM-DD]
+Effective date: [2026-11-7]
+Last updated: [2026-11-8]
 
 This Privacy Policy explains how **[Developer / Company Name]** ("we", "us",
 "our") handles information in connection with the **EUR/USD Forecaster**
