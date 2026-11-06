@@ -193,9 +193,9 @@ update constitutes acceptance of the revised Policy.
 
 Questions about this Policy or your data:
 
-**Email:[eurusdforecaster@gmail.com] 
-**Developer:ANLegacy
-**Location:Kampala, Uganda 
+Email:[eurusdforecaster@gmail.com] 
+Developer:ANLegacy
+Location:Kampala, Uganda 
 
 ---
 
